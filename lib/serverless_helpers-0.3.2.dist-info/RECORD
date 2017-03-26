@@ -1,0 +1,13 @@
+serverless_helpers/__init__.py,sha256=OCxEovOKscmYbtgIHRVrv1Lx-H4SLbOj7Mnmpx9ANZY,1527
+serverless_helpers/cfn_detect.py,sha256=ZcZr5lR_wjQOhinBBie-wXo8KgGl8oGvYMakH-PKB9U,1909
+serverless_helpers/dotenv.py,sha256=n3WMmvRfeHJmz7TFHS3ci09B4dyokR_aBNh904w28qE,7830
+serverless_helpers-0.3.2.dist-info/DESCRIPTION.rst,sha256=8FnnxWrNFecm7nxTLg6z8BK2Tw1-Paton6mjiZtWmvY,1281
+serverless_helpers-0.3.2.dist-info/METADATA,sha256=2BFgIpZayl_XR2ySFTPu6WuWYMsqH2US842RRsUJEm0,2114
+serverless_helpers-0.3.2.dist-info/RECORD,,
+serverless_helpers-0.3.2.dist-info/WHEEL,sha256=BtVfdXUcEYLcFjOkbIrCFRyXU4qszVPt-E9o3RWkSNw,93
+serverless_helpers-0.3.2.dist-info/metadata.json,sha256=Zmd-qXbnthlO1H17x_5ivqrwtZNXQLXMwJU25g2TN78,883
+serverless_helpers-0.3.2.dist-info/top_level.txt,sha256=MZG9nzF2t1DKpI86ZowHfq1nHtkDdzdVdufnTOJYeOQ,19
+serverless_helpers-0.3.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+serverless_helpers/dotenv.pyc,,
+serverless_helpers/__init__.pyc,,
+serverless_helpers/cfn_detect.pyc,,
