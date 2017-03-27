@@ -70,7 +70,7 @@ returnData = {
     "status": 200,
 
     #Response Body:
-    "body": "<h1>Hey Srini! Azure Works :)</h1>",
+    "body": "<h1>Hey Srini! I just sent a message from Azure Function. Check your phone! :)</h1>",
 
     # Send any number of HTTP headers
     "headers": {
